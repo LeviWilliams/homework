@@ -243,7 +243,7 @@ int main(void) {
     printf("#   Game over!   #\n");
     printf("##################\n\n");
     
-    printf("You should play again and try to beat your score!\n");
+    printf("Play again to try to beat your score! \n");
     
     return 0;
 }
